@@ -1,0 +1,13 @@
+M,1,John,Smith,305-565-5656,1:02/06/2015:02/13/2015:Open#2:01/01/2015:01/08/2015:Closed
+M,2,Juan,Perez,786-345-5432,3:02/01/2015:02/08/2015:Open#4:02/06/2015:02/13/2015:Open
+M,3,Abel,Perez,786-348-7412,5:01/14/2015:01/21/2015:Closed
+P,1,Starting Out With Java,General,Adult,true,Tony Gaddis; Godfrey Muganda,978-0-321-54586-2,paperback
+P,2,The fourteenth goldfish,Children's Fiction,PreSchool,true,Jennifer L. Holm,978-0-375-87064-4,hardcover
+E,3,The League,Fiction,Juvenile,false,Thatcher Heldringe,978-0-375-98713-7,PDF
+A,4,Unbroken,Non-Fiction,Adult,true,Laura Hillenbrand,978-0-679-60375-7,840,2.50
+M,4,Mary,Brown,456-987-4563,6:03/14/2015:01/27/2015:Closed#7:08/16/2016:09/16/2016:Closed
+D,5,Planet Earth,Nature Documentary,General,true,14373,174,true
+A,6,The Martian,Fiction,Adult,true,Andy Weir,978-0-553-41802-6,822,2.75
+P,7,The fourteenth goldfish,Children's Fiction,PreSchool,true,Jennifer L. Holm,978-0-375-87064-4,hardcover
+E,8,The League,Fiction,Juvenile,true,Thatcher Heldringe,978-0-375-98713-7,PDF
+M,5,John,Smith,305-565-5656,8:09/14/2016:10/27/2016:Closed#9:11/01/2016:12/16/2016:Open
